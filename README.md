@@ -10,7 +10,7 @@ The idea is to work with the `commerce` database, which contains **McDonald's** 
 
 ### SKills to be Tested
 
-In this project, we check if you are able to:
+In this project, I was able to:
 
   * Use the `updateOne()` and `updateMany()` methods;
 
